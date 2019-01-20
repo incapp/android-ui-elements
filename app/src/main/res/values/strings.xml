@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android UI Elements</string>
+    <string name="splash">This is a Splash Screen.</string>
+    <string name="enter_a_fruit_name_here">Enter a fruit name here…</string>
+    <string name="seekBar">SeekBar:</string>
+    <string name="autoCompleteTextView">AutoCompleteTextView:</string>
+    <string name="spinner">Spinner:</string>
+    <string name="listView">ListView:</string>
+    <string name="go_to_webview">Go to WebView</string>
+    <string name="go_to_date_time">Go to Date/Time</string>
+</resources>
